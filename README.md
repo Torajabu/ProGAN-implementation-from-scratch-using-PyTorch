@@ -91,6 +91,4 @@ To train on higher resolutions:
 - [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/abs/1710.10196)
 - [Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
 
-## License
 
-[MIT](LICENSE)
